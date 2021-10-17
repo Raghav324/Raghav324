@@ -17,5 +17,9 @@ I'm a Computer Science Enthusiast , Currently in final year at Poornima College 
 ### Some stats about me
 <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav324&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
-⭐️ From [Raghav-Sharma](https://github.com/Raghav324)
+<a href="https://github.com/Raghav324/Raghav324">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaljain0&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+⭐️
 
