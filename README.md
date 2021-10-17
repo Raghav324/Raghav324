@@ -15,6 +15,7 @@ I'm a Computer Science Enthusiast , Currently in final year at Poornima College 
 , [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sraghav352@gmail.com)](mailto:saraghav352@gmail.com) 
 
 📈 **My GitHub Stats:**
+<p>
 <img alt="Raghav's github stats" src="https://github-readme-stats.vercel.app/api?username=Raghav324&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
-
+</p>
 
